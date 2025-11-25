@@ -106,7 +106,7 @@
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-11-25": 542,
+      "2025-11-25": 572,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -121,19 +121,19 @@
     "url": "https://telegram.org",
     "icon": "https://icons.duckduckgo.com/ip3/telegram.org.ico",
     "slug": "telegram",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 376,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 505,
+    "timeDay": 398,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-11-25": 0
+      "2025-11-25": 30
     }
   }
 ]
