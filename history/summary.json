@@ -76,19 +76,19 @@
     "url": "https://sunrp.ir",
     "icon": "https://icons.duckduckgo.com/ip3/sunrp.ir.ico",
     "slug": "sun-rp",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 523,
-    "timeDay": 485,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 524,
+    "timeDay": 504,
     "timeWeek": 545,
-    "timeMonth": 523,
-    "timeYear": 523,
+    "timeMonth": 524,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-11-30": 27
+      "2025-11-30": 34
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 291,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-11-30": 1302,
+      "2025-11-30": 1309,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
