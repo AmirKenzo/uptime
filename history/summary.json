@@ -115,7 +115,7 @@
     "timeMonth": 275,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2025-12-30": 1260,
+      "2025-12-30": 1284,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -165,7 +165,7 @@
     "url": "https://telegram.org",
     "icon": "https://icons.duckduckgo.com/ip3/telegram.org.ico",
     "slug": "telegram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
     "uptimeDay": "98.67%",
     "uptimeWeek": "99.38%",
